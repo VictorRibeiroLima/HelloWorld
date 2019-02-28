@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="welcome">welcome to Android App Development</string>
+    <string name="deitei_logo">deitei s bug double thumbs up</string>
+</resources>
